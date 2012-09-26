@@ -22,3 +22,13 @@ do
 done
 ```
 
+Sections changed:
+
+* grails-app/conf/Config.groovy
+* grails-app/conf/BootStrap.groovy
+* grails-app/controllers/*
+* grails-app/services/*
+* grails-app/domain/*
+
+
+
